@@ -1,0 +1,126 @@
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_thongke.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH_DinhThanhSon_2485.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH_DinhThanhSon_2485.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\bin\Debug\DOAN_QLBH_DinhThanhSon_2485.exe.config
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\bin\Debug\DOAN_QLBH_DinhThanhSon_2485.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\bin\Debug\DOAN_QLBH_DinhThanhSon_2485.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH_DinhThanhSon_2485.Properties.Resources.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_thongke.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.Properties.Resources.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe.config
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_taikhoan.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe.config
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_taikhoan.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_thongke.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.Properties.Resources.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\WSM-master\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.pdb
+D:\Downloands\Nhapcode\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+D:\Downloands\Nhapcode\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+D:\Downloands\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe.config
+D:\Downloands\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe
+D:\Downloands\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.pdb
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_mainNV.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_taikhoan.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_thongke.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.Properties.Resources.resources
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.exe
+D:\Downloands\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe.config
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_mainNV.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_taikhoan.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.Properties.Resources.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\bin\Debug\QLBH.mdf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\bin\Debug\QLBH_log.ldf
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe.config
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\bin\Debug\DOAN_QLBH.pdb
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.AssemblyReference.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.SuggestedBindingRedirects.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_dangnhap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hanghoa.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_hoadon.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_khachhang.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_main.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_mainNV.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhacungcap.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_nhanvien.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.GUI.frm_taikhoan.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.Properties.Resources.resources
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.GenerateResource.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.csproj.CoreCompileInputs.cache
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.exe
+C:\Rhyster\Study\Cong nghe Phan mem\DoAn\QLBanHang (1)\WSM-master - Copy\Nhapcode - Copy\WSM-master\WSM-master\obj\Debug\DOAN_QLBH.pdb
